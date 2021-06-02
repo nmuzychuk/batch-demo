@@ -25,4 +25,4 @@ jobs:
       run: |
         sudo /etc/init.d/mysql start
         mysql -e 'CREATE DATABASE test;' -uroot -proot
-        mvn -B package --file pom.xml
+        ./gradlew check
