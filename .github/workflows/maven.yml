@@ -25,4 +25,4 @@ jobs:
       run: |
         sudo /etc/init.d/mysql start
         mysql -e 'CREATE DATABASE test;' -uroot -proot
-        ./gradlew check --debug --stacktrace
+        ./gradlew check
