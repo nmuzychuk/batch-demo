@@ -1,5 +1,5 @@
 # Batch Demo
-[![Build Status](https://travis-ci.org/nmuzychuk/batch-demo.svg?branch=master)](https://travis-ci.org/nmuzychuk/batch-demo)
+[![Java CI with Gradle](https://github.com/nmuzychuk/batch-demo/actions/workflows/gradle.yml/badge.svg)](https://github.com/nmuzychuk/batch-demo/actions/workflows/gradle.yml)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/4b5bbf54d839427b8f6defe96a105e48)](https://www.codacy.com/manual/nmuzychuk/batch-demo)
 
 ## Overview
